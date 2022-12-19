@@ -47,10 +47,10 @@ import {
   
       emailjs
         .sendForm(
-          "service_tf9c077",
-          "template_4e6glki",
+          "service_n7am7qv",
+          "template_hgsb73m",
           e.target,
-          "l1YH8kLQaTR-svPeF"
+          "ltv7Yq8WnfqYb7SGg"
         )
         .then(
           (result) => {

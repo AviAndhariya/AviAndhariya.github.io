@@ -43,6 +43,10 @@ const NavLink = ({ children }) => (
     {children}
   </Link>
 );
+
+const handleclick= () =>{
+  window.open("https://drive.google.com/u/0/uc?id=1yDCuCxyjlOzE52XbeftbCgfNxdnbOoTT&export=download")
+}
 const Navbar = () => {
   const { isOpen, onOpen, onClose } = useDisclosure();
   const { colorMode, toggleColorMode } = useColorMode();
@@ -108,13 +112,14 @@ const Navbar = () => {
             </Button>
             <Button
               bg={"white"}
+              onClick={handleclick}
               color="black"
               _hover={{
                 bg: "white",
               }}
             >
               <a
-                href={resume} 
+                href='https://drive.google.com/file/d/1yDCuCxyjlOzE52XbeftbCgfNxdnbOoTT/view?usp=share_link' 
                 style={{ cursor: "pointer" }}
                 target={"_blank"}
                 rounded={"md"}
