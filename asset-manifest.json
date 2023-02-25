@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.0cdbeab1.js",
+    "main.js": "/static/js/main.a8ff1c46.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/kimaye.png": "/static/media/kimaye.fb526c4c5fb88f3acc84.png",
     "static/media/sugar.png": "/static/media/sugar.7f5d1e0ee7e47e1ee5bb.png",
     "static/media/Webtaskkit.png": "/static/media/Webtaskkit.cec099f5db660af19d3b.png",
+    "static/media/Naukri.com.png": "/static/media/Naukri.com.fb3d09a178ebe498571f.png",
     "static/media/Redux.png": "/static/media/Redux.1b4bb5fceb01b19da59d.png",
     "static/media/chakra..png": "/static/media/chakra..e4cb472ccaabf22affba.png",
     "static/media/AviAndhariya_Resume.pdf": "/static/media/AviAndhariya_Resume.c3f0ad76fdee35915a3b.pdf",
@@ -18,11 +18,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.0cdbeab1.js.map": "/static/js/main.0cdbeab1.js.map",
+    "main.a8ff1c46.js.map": "/static/js/main.a8ff1c46.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0cdbeab1.js"
+    "static/js/main.a8ff1c46.js"
   ]
 }
