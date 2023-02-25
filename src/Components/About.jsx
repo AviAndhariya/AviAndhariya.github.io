@@ -68,6 +68,7 @@ export const About = () => {
     <Calendar />
     <Techstacks />
     <Contact />
+    <p style={{textAlign:"center"}}>inspired by chakra-UI</p>
     </div>
   )
 }

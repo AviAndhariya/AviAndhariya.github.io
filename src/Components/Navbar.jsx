@@ -21,7 +21,11 @@ import {
   useDisclosure,
 } from "@chakra-ui/react";
 import resume from "../utills/AviAndhariya_Resume.pdf"
-
+const handleDownload = () => {
+  window.open(
+    "https://drive.google.com/u/0/uc?id=1yDCuCxyjlOzE52XbeftbCgfNxdnbOoTT&export=download"
+  );
+};
 const Links = ["Home", "About", "Techstacks", "Project", "Contact"];
 const NavLink = ({ children }) => (
   <Link
@@ -107,6 +111,7 @@ const Navbar = () => {
               )}
             </Button> */}
             <Button
+            onClick={handleDownload}
               bg={"white"}
               color="black"
               _hover={{
@@ -114,7 +119,7 @@ const Navbar = () => {
               }}
             >
               <a
-                href={resume} 
+                href={'https://drive.google.com/file/d/1yDCuCxyjlOzE52XbeftbCgfNxdnbOoTT/view'} 
                 style={{ cursor: "pointer" }}
                 target={"_blank"}
                 rounded={"md"}

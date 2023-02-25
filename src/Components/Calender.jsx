@@ -46,9 +46,7 @@ const Calendar = () => {
         <Stack align={"center"} mt={"2rem"}>
           <GitHubCalendar
             username="AviAndhariya"
-            transformData={selectLastHalfYear}
-            blockSize={15}
-            fontSize={15}
+          
 
           >
             <ReactTooltip delayShow={20} html />
@@ -67,7 +65,7 @@ const Calendar = () => {
               boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"}
             >
               <Image
-                src={`https://github-readme-stats.vercel.app/api?username=AviAndhariya&show_icons=true&theme=${useColorModeValue(
+                src={`https://github-readme-stats.vercel.app/api/top-langs/?username=AviAndhariya&theme=${useColorModeValue(
                   "defolt",
                   "tokyonight"
                 )}`}
@@ -102,6 +100,9 @@ const Calendar = () => {
           </Box>
         </SimpleGrid>
       </Container>
+      <Box>
+    
+      </Box>
     </Box>
   );
 };

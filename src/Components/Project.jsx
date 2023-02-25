@@ -10,7 +10,7 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import webtaskkit from "../utills/Webtaskkit.png";
-import Kimaye from "../utills/kimaye.png";
+import Naukri from "../utills/Naukri.com.png"
 import sugar from "../utills/sugar.png";
 import { BsGithub } from "react-icons/bs";
 
@@ -144,7 +144,7 @@ const Project = () => {
               <Image
                 borderRadius={"10"}
                 width={"100%"}
-                src={Kimaye}
+                src={Naukri}
                 alt="logo"
               />
               <Box
@@ -164,11 +164,11 @@ const Project = () => {
                   >
                     <Box>
                       <Heading>
-                        <a href="https://whimsical-gingersnap-c9aa58.netlify.app/">Kimaye-Clone</a>
+                        <a href="https://shiny-hydrant-7464.vercel.app/">Naukari.com-Clone</a>
                       </Heading>
                     </Box>
                     <Box>
-                      <a href="https://github.com/ashish123sharma/Kimaye-Project">
+                      <a href="https://github.com/ayushanshu001/shiny-hydrant-7464">
                         <BsGithub />
                       </a>
                     </Box>
@@ -184,8 +184,8 @@ const Project = () => {
                       }}
                     >
                       This is a collabrotive Project.This website is a 
-                      clone of Kimaye.com.<br></br> It is fresh fruit selling website.
-                      <br></br>I have made Prodct page & Cart with full functionality & UI.
+                      clone of Naukri.com.<br></br> It is service based website for job seekers and companies.
+                      <br></br>I have made Home page & Company Page with full functionality & UI.
                       
                     </Text>
                     <Box mt={"2"}>
@@ -193,8 +193,8 @@ const Project = () => {
                         Tech-stack :
                       </Heading>
                       <UnorderedList >
-                        <ListItem>javascript</ListItem> <ListItem>Bootstrap</ListItem>{" "}
-                        <ListItem>CSS</ListItem> <ListItem>Req-res</ListItem>
+                        <ListItem>Redux</ListItem> <ListItem>Styled-Component</ListItem>{" "}
+                        <ListItem>React</ListItem> <ListItem>Chakra-UI</ListItem>
                       </UnorderedList>
                     </Box>
                     <Box

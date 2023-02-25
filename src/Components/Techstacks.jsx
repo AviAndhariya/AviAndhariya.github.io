@@ -9,7 +9,9 @@ import chakralogo from "../utills/chakra..png";
 import expresslogo from "../utills/express.png";
 import npmlogo from "../utills/NPM.png";
 import tslogo from "../utills/typescript..png";
-
+import mongoose from "../utills/mongoose.png"
+import mongo from "../utills/mongo.png"
+import git from"../utills/github.png"
 const Techstacks = () => {
   return (
     <Box id="Techstacks" mt={'5'}>
@@ -25,6 +27,9 @@ const Techstacks = () => {
           <GridItem><Box textAlign={'center'} ><Image src={expresslogo} alt="logo" /><Text fontWeight={'500'} fontSize={'xl'} >EXPRESS</Text> </Box></GridItem>
           <GridItem><Box textAlign={'center'} ><Image src={npmlogo} alt="logo" /><Text fontWeight={'500'} fontSize={'xl'} >NPM</Text> </Box></GridItem>
           <GridItem><Box textAlign={'center'} ><Image src={tslogo} alt="logo" /><Text fontWeight={'500'} fontSize={'xl'} >TYPE-SCRIPT</Text> </Box></GridItem>
+          <GridItem><Box textAlign={'center'} ><Image src={mongoose} alt="logo" /><Text fontWeight={'500'} fontSize={'xl'} >MONGOOSE</Text> </Box></GridItem>
+          <GridItem><Box textAlign={'center'} ><Image src={mongo} alt="logo" /><Text fontWeight={'500'} fontSize={'xl'} >MONGO-DB</Text> </Box></GridItem>
+          <GridItem><Box textAlign={'center'} ><Image src={git} alt="logo" /><Text fontWeight={'500'} fontSize={'xl'} >GITHUB</Text> </Box></GridItem>
         </Grid>
       </Box>
     </Box>
