@@ -166,11 +166,13 @@ const Project = () => {
                       <Heading>
                         <a href="https://shiny-hydrant-7464.vercel.app/">Naukari.com-Clone</a>
                       </Heading>
+
                     </Box>
                     <Box>
                       <a href="https://github.com/ayushanshu001/shiny-hydrant-7464">
                         <BsGithub />
                       </a>
+                    
                     </Box>
                   </Box>
                   <Box margin={"10px 0px 0px 20px"} textAlign={"left"}>
@@ -203,7 +205,7 @@ const Project = () => {
                       justifyContent={"space-around"}
                     >
                       <Box>
-                        <a href="https://github.com/ashish123sharma/Kimaye-Project">
+                        <a href="https://github.com/ayushanshu001/shiny-hydrant-7464">
                           <button
                             style={{
                               width: "200px",
@@ -218,7 +220,7 @@ const Project = () => {
                         </a>
                       </Box>
                       <Box>
-                        <a href="https://whimsical-gingersnap-c9aa58.netlify.app/">
+                        <a href="https://shiny-hydrant-7464.vercel.app/">
                           <button
                             style={{
                               width: "200px",
