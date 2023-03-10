@@ -51,7 +51,7 @@ export const About = () => {
  
 </Stack>
 </Flex>
-<Flex flex={1}>
+<Flex flex={1} >
         <Image
         width={"450px"}
         marginTop={"100px"}
@@ -61,6 +61,7 @@ export const About = () => {
           alt={'Login Image'}
           objectFit={'cover'}
           src={"https://avatars.githubusercontent.com/u/101567331?v=4"}
+          
         />
       </Flex>
       </Stack>

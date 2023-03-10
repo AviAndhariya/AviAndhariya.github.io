@@ -37,17 +37,16 @@ const Project = () => {
           }}
         >
           <GridItem>
-            <Box mt={6} border={"solid #4299e1"} p={"2"} borderRadius={"10"}>
+            <Box mt={6} border={"solid #4299e1"} maxWidth={{ "2xl": "5xl", xl: "5xl", lg: "xl", sm: "sm", base: "sm" }} p={"2"} m={'auto'} borderRadius={"10"}>
               <Image
                 borderRadius={"10"}
-                width={"100%"}
                 src={webtaskkit}
                 alt="logo"
               />
               <Box
                 alignItems={"center"}
                 borderRadius={"10"}
-                p={"5"}
+                p={"4"}
                 display={"flex"}
                 justifyContent={"space-evenly"}
               >
@@ -77,7 +76,7 @@ const Project = () => {
                         xl: "lg",
                         lg: "sm",
                         sm: "sm",
-                        base: "xs",
+                        base: "sm",
                       }}
                     >
                       This is a collabrotive Project.This website is a fully
@@ -105,7 +104,7 @@ const Project = () => {
                         <a href="https://github.com/SunilHooda/silky-cannon-605">
                           <button
                             style={{
-                              width: "200px",
+                              width: "150px",
                               backgroundColor: "#4299e1",
                               color: "white",
                               border: "1px solid black",
@@ -120,7 +119,7 @@ const Project = () => {
                         <a href="https://webtaskit.vercel.app/">
                           <button
                             style={{
-                              width: "200px",
+                              width: "150px",
                               backgroundColor: "#4299e1",
                               color: "white",
                               border: "1px solid black",
@@ -182,7 +181,7 @@ const Project = () => {
                         xl: "lg",
                         lg: "sm",
                         sm: "sm",
-                        base: "xs",
+                        base: "sm",
                       }}
                     >
                       This is a collabrotive Project.This website is a 
@@ -208,7 +207,7 @@ const Project = () => {
                         <a href="https://github.com/ayushanshu001/shiny-hydrant-7464">
                           <button
                             style={{
-                              width: "200px",
+                              width: "150px",
                               backgroundColor: "#4299e1",
                               color: "white",
                               border: "1px solid black",
@@ -223,7 +222,7 @@ const Project = () => {
                         <a href="https://shiny-hydrant-7464.vercel.app/">
                           <button
                             style={{
-                              width: "200px",
+                              width: "150px",
                               backgroundColor: "#4299e1",
                               color: "white",
                               border: "1px solid black",
@@ -282,7 +281,7 @@ const Project = () => {
                         xl: "lg",
                         lg: "sm",
                         sm: "sm",
-                        base: "xs",
+                        base: "sm",
                       }}
                     >
                       This is a collabrotive Project.This website is a
@@ -309,7 +308,7 @@ const Project = () => {
                         <a href="https://github.com/Aaru1996/Sugar_Cosmetics_clone">
                           <button
                             style={{
-                              width: "200px",
+                              width: "150px",
                               backgroundColor: "#4299e1",
                               color: "white",
                               border: "1px solid black",
@@ -324,7 +323,7 @@ const Project = () => {
                         <a href="https://reliable-haupia-18150c.netlify.app/products_makeup.html">
                           <button
                             style={{
-                              width: "200px",
+                              width: "150px",
                               backgroundColor: "#4299e1",
                               color: "white",
                               border: "1px solid black",
