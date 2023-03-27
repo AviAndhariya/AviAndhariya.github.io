@@ -60,7 +60,7 @@ const Project = () => {
                   >
                     <Box>
                       <Heading>
-                        <a href="https://webtaskit.vercel.app/">Webtask-kit</a>
+                        <a href="https://web-taskit-ynzg.vercel.app/signup">Webtask-kit</a>
                       </Heading>
                     </Box>
                     <Box>
@@ -116,7 +116,7 @@ const Project = () => {
                         </a>
                       </Box>
                       <Box>
-                        <a href="https://webtaskit.vercel.app/">
+                        <a href="https://web-taskit-ynzg.vercel.app/signup">
                           <button
                             style={{
                               width: "150px",

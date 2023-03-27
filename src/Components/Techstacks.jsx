@@ -37,7 +37,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={htmllogo}
                 alt="logo"
@@ -50,7 +50,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={csslogo}
                 alt="logo"
@@ -63,7 +63,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={jslogo}
                 alt="logo"
@@ -76,7 +76,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={reactlogo}
                 alt="logo"
@@ -89,7 +89,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={reduxlogo}
                 alt="logo"
@@ -102,7 +102,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={chakralogo}
                 alt="logo"
@@ -115,7 +115,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={expresslogo}
                 alt="logo"
@@ -128,7 +128,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={npmlogo}
                 alt="logo"
@@ -141,7 +141,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={tslogo}
                 alt="logo"
@@ -154,7 +154,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={mongoose}
                 alt="logo"
@@ -167,7 +167,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={mongo}
                 alt="logo"
@@ -180,7 +180,7 @@ const Techstacks = () => {
           <GridItem>
             <Box textAlign={"center"}>
               <Image
-                maxWidth={{ xl: "xl", lg: "xl", sm: "100px", base: "100px" }}
+                maxWidth={{ xl: "150px", lg: "150px", sm: "100px", base: "100px" }}
                 m={"auto"}
                 src={git}
                 alt="logo"
